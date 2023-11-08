@@ -8,5 +8,8 @@ namespace GEST.Clases
 {
     internal class CConexion
     {
+        
+
+
     }
 }
